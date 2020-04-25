@@ -1,0 +1,110 @@
+variable	Taxon
+Bae_fus	Baetis fuscatus
+Bae_mut	Baetis muticus
+Bae_sca	Baetis rhodani
+Bae_rho	Baetis scambus
+Bae_ver	Baetis vernus
+Cen_lut	Centroptilum luteolum
+Eph_muc 	Ephemerella mucronata
+Eph_ign 	Serratella ignita
+Eph_dan	Ephemera danica
+Hab_fus 	Habrophlebia fusca
+Hab_lau 	Habrophlebia lauta
+Par_sub	Paraleptophlebia submarginata
+Amp_sta	Amphinemura standfussi
+Amp_sul	Amphinemura sulcicollis
+Bra_ris	Brachyptera risi
+Bra_set	Brachyptera seticornis
+Iso_goe	Isoperla goertzi
+Iso_gra	Isoperla grammatica
+Leu_dig 	Leuctra digitata
+Leu_fus 	Leuctra fusca fusca
+Leu_ine	Leuctra inermis
+Leu_nig 	Leuctra nigra
+Leu_pri 	Leuctra prima
+Nem_cam 	Nemoura cambrica
+Nem_cin 	Nemoura cinerea cinerea
+Nem_fle 	Nemoura flexuosa
+Nem_mar 	Nemoura marginata
+Nrl_pic	Nemurella pictetii
+Per_dis	Perlodes dispar
+Per_mic	Perlodes microcephalus
+Pro_aub 	Protonemura auberti
+Pro_int 	Protonemura intricata intricata
+Pro_mey 	Protonemura meyeri
+Pro_nit 	Protonemura nitida
+Sip_tor	Siphonoperla torrentium torrentium
+Adi_fil	Adicella filicornis
+Adi_red	Adicella reducta
+Aga_fus	Agapetus fuscipes
+Agr_mul	Agraylea multipunctata
+Ana_ner	Anabolia nervosa
+Ann_obs	Annitella obscurata
+Apa_fim	Apatania fimbriata
+Ath_ate	Athripsodes aterrimus
+Ber_pul	Beraea pullata
+Bra_sub	Brachycentrus subnubilus
+Cer_dis	Ceraclea dissimilis
+Cha_vil	Chaetopteryx villosa villosa
+Che_lep	Cheumatopsyche lepida
+Cru_irr	Crunoecia irrorata irrorata
+Cyr_tri	Cyrnus trimaculatus
+Dip_fel	Diplectrona felix
+Dru_ann	Drusus annulatus
+Dru_big	Drusus biguttatus biguttatus
+Glo_con	Glossosoma conformis
+Gly_pel	Glyphotaelius pellucidus
+Gra_nig	Grammotaulius nigropunctatus
+Gra_nit	Grammotaulius nitidus
+Hal_dig	Halesus digitatus digitatus
+Hal_rad	Halesus radiatus
+Hal_tes	Halesus tessellatus
+Hyd_ang	Hydropsyche angustipennis angustipennis
+Hyd_ins	Hydropsyche instabilis
+Hyd_pel	Hydropsyche pellucidula
+Hyd_sax	Hydropsyche saxonica
+Hyd_sil	Hydropsyche siltalai
+Hpt_ang	Hydroptila angulata
+Hpt_pul	Hydroptila pulchricornis
+Hpt_spa	Hydroptila sparsa
+Lim_aur	Limnephilus auricula
+Lim_bip	Limnephilus bipunctatus
+Lim_cen	Limnephilus centralis
+Lim_ext	Limnephilus extricatus
+Lim_fus	Limnephilus fuscicornis
+Lim_gri	Limnephilus griseus
+Lim_hir	Limnephilus hirsutus
+Lim_ign	Limnephilus ignavus
+Lim_lun	Limnephilus lunatus
+Lim_rho	Limnephilus rhombicus rhombicus
+Lim_spa	Limnephilus sparsus
+Lyp_pha	Lype phaeopa
+Lyp_red	Lype reducta
+Mic_lon	Micrasema longulum
+Mpt_lat	Micropterna lateralis
+Mpt_nyc	Micropterna nycterobia
+Mpt_seq	Micropterna sequax
+Mys_lon	Mystacides longicornis
+Mys_nid	Mystacides nigra
+Odo_alb	Odontocerum albicorne
+Par_pic	Parachiona picicornis
+Ple_con	Plectrocnemia conspersa conspersa
+Pot_fla	Polycentropus flavomaculatus flavomaculatus
+Pot_cin	Potamophylax cingulatus cingulatus
+Pot_lat	Potamophylax latipennis
+Pot_luc	Potamophylax luctuosus luctuosus
+Pot_nig	Potamophylax nigricornis
+Psy_pus	Psychomyia pusilla
+Pti_gra	Ptilocolepus granulatus granulatus
+Rhy_fas	Rhyacophila fasciata fasciata
+Rhy_nub	Rhyacophila nubila
+Ser_fla	Sericostoma flavicorne
+Ser_per	Sericostoma personatum
+Sil_pal	Silo pallipes
+Ste_per	Stenophylax permistus
+Syn_mos	Synagapetus moselyi
+Tin_pal	Tinodes pallidulus
+Tin_ros	Tinodes rostocki
+Tin_wae	Tinodes waeneri waeneri
+Wor_occ	Wormaldia occipitalis occipitalis
+

@@ -194,10 +194,10 @@ trp2m <- melt(troph, id=c("Year"))
 dis= read.table("discharge.txt",sep="\t",header = TRUE) #reading in abiotic [discharge] data
 #rename
 dis$year=dis$Jahr
-#read temperature data
+#streamline discharge data
 discharge1=dis[,c(1:13,15,16)]
 #read_pattern of discharge
-dp= read.csv("disch_pattern.csv",sep=",")#read in temperature data (water)
+dp= read.csv("disch_pattern.csv",sep=",")#read discharge data summarized
 dp$mean_minus_sd=dp$mean-dp$sd #calculate mean discharge- sd
 dp$mean_plus_sd=dp$mean+dp$sd #calculate mean discharge+ sd
 dp2=dp[,c(1,2,4:6)]#delete sd as not used in the plot
